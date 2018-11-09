@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541721474 source:c:\users\allie\onedrive\desktop\errorchecking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"errorcheck.h"
+
+1541721797 c:\users\allie\onedrive\desktop\errorchecking\errorcheck.h
+
